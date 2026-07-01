@@ -1,0 +1,12 @@
+.agents/
+.codex/
+.gog/
+.git-local/
+.thumbnail
+
+# Exported alternates kept locally, not needed for the Pages preview.
+Boston Hill Fence - Coastal.dc.html
+Boston Hill Fence - Site.dc.html
+Boston Hill Fence Homepage-print-1w4jotw.dc.html
+Boston Hill Fence Homepage.dc.html
+Boston Hill Fence Homepage.html
